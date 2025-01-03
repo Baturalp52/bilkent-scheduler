@@ -1,0 +1,58 @@
+{
+  "name": "Sound Design I",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 0
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 3
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 3
+  },
+  "code": "COMD 361",
+  "sections": {
+    "COMD 361-001": {
+      "instructor": "Ufuk Önen",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FFB-008(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "COMD 361-001"
+    }
+  }
+}

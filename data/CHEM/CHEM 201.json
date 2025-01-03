@@ -16,8 +16,8 @@
   "sections": {
     "CHEM 201-001": {
       "instructor": "Bilge Baytekin",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "CHEM 201-002": {
       "instructor": "Ahmet Macit Özenbaş",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -15,58 +15,58 @@
   "code": "ECON 101",
   "sections": {
     "ECON 101-001": {
-      "instructor": "Nuh Aygün Dalkıran",
-      "quota": "23 Mand. or Elect.",
-      "total_quota": 23,
+      "instructor": "Arda Gitmez",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 23,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "V-03",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "V-03",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "B-109",
+          "place": "",
           "class": "Recitation"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "V-03",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "V-03",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 101-001"
     },
     "ECON 101-002": {
-      "instructor": "Nuh Aygün Dalkıran",
-      "quota": "23 Mand. or Elect.",
-      "total_quota": 23,
+      "instructor": "Arda Gitmez",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 23,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -74,20 +74,20 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Recitation"
         },
@@ -95,166 +95,25 @@
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 101-002"
     },
     "ECON 101-003": {
-      "instructor": "Nuh Aygün Dalkıran",
-      "quota": "23 Mand. or Elect.",
-      "total_quota": 23,
+      "instructor": "Arda Gitmez",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 22,
-        "elective": 1
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 101-003"
-    },
-    "ECON 101-004": {
-      "instructor": "Nuh Aygün Dalkıran",
-      "quota": "23 Mand. or Elect.",
-      "total_quota": 23,
-      "enrollment": {
-        "mandatory": 22,
-        "elective": 1
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 101-004"
-    },
-    "ECON 101-005": {
-      "instructor": "Nuh Aygün Dalkıran",
-      "quota": "24 Mand. or Elect.",
-      "total_quota": 24,
-      "enrollment": {
-        "mandatory": 23,
-        "elective": 1
-      },
-      "schedule": [
-        {
-          "day": "Wednesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Recitation"
-        },
-        {
-          "day": "Friday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 101-005"
-    },
-    "ECON 101-006": {
-      "instructor": "Nuh Aygün Dalkıran",
-      "quota": "23 Mand. or Elect.",
-      "total_quota": 23,
-      "enrollment": {
-        "mandatory": 23,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -262,18 +121,18 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
@@ -283,44 +142,91 @@
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "ECON 101-006"
+      "name": "ECON 101-003"
     },
-    "ECON 101-007": {
-      "instructor": "Nuh Aygün Dalkıran",
-      "quota": "23 Mand. or Elect.",
-      "total_quota": 23,
+    "ECON 101-004": {
+      "instructor": "Arda Gitmez",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
-        "mandatory": 22,
-        "elective": 1
+        "mandatory": 0,
+        "elective": 0
       },
       "schedule": [
         {
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 101-004"
+    },
+    "ECON 101-005": {
+      "instructor": "Arda Gitmez",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
@@ -330,14 +236,108 @@
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 101-005"
+    },
+    "ECON 101-006": {
+      "instructor": "Arda Gitmez",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
           "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 101-006"
+    },
+    "ECON 101-007": {
+      "instructor": "Arda Gitmez",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],

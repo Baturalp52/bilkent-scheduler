@@ -15,37 +15,37 @@
   "code": "ELIT 230",
   "sections": {
     "ELIT 230-001": {
-      "instructor": "Ceylan Bevington",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -55,9 +55,9 @@
       "name": "ELIT 230-001"
     },
     "ELIT 230-002": {
-      "instructor": "Ceylan Bevington",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Staff",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

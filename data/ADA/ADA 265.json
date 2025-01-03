@@ -16,8 +16,8 @@
   "sections": {
     "ADA 265-001": {
       "instructor": "Segah Sak",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,37 +27,37 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FA-118(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 265-001"
     },
     "ADA 265-002": {
-      "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "instructor": "Cem Dedekargınoğlu",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,37 +67,37 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FA-118(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 265-002"
     },
     "ADA 265-003": {
-      "instructor": "Staff",
-      "quota": "40 Mand. or Elect.",
-      "total_quota": 40,
+      "instructor": "Cem Dedekargınoğlu",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -107,32 +107,112 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FA-118(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FA-118",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ADA 265-003"
+    },
+    "ADA 265-004": {
+      "instructor": "Staff",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ADA 265-004"
+    },
+    "ADA 265-005": {
+      "instructor": "Staff",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ADA 265-005"
     }
   }
 }

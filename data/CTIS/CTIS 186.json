@@ -16,8 +16,8 @@
   "sections": {
     "CTIS 186-001": {
       "instructor": "Jamel Ben Chafra",
-      "quota": "16 Mand. 0 Elect.",
-      "total_quota": 16,
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -15,7 +15,7 @@
   "code": "GRA 211",
   "sections": {
     "GRA 211-001": {
-      "instructor": "Staff",
+      "instructor": "Çavlan Başarır",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -25,30 +25,30 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FB-319",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FB-319",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-319",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
+          "start": "08:30",
+          "end": "09:20",
           "place": "FB-319(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FB-319",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-319",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-319",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

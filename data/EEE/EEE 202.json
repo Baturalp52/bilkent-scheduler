@@ -16,8 +16,8 @@
   "sections": {
     "EEE 202-001": {
       "instructor": "Ayhan Altıntaş",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -151,9 +151,9 @@
       "name": "EEE 202-002"
     },
     "EEE 202-003": {
-      "instructor": "Tolga Çukur",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "instructor": "Levent Onural",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

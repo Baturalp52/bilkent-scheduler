@@ -15,37 +15,37 @@
   "code": "EEE 530",
   "sections": {
     "EEE 530-001": {
-      "instructor": "Tolga Mete Duman",
-      "quota": "10 Mand. or Elect.",
-      "total_quota": 10,
+      "instructor": "Melih Baştopçu",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",

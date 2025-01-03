@@ -15,7 +15,7 @@
   "code": "IE 202",
   "sections": {
     "IE 202-001": {
-      "instructor": "Oya Karaşan",
+      "instructor": "Oya Karaşan  Bahar Yetiş",
       "quota": "24 Mand. or Elect.",
       "total_quota": 24,
       "enrollment": {
@@ -27,14 +27,14 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -55,21 +55,21 @@
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IE 202-001"
     },
     "IE 202-002": {
-      "instructor": "Oya Karaşan",
+      "instructor": "Oya Karaşan  Bahar Yetiş",
       "quota": "24 Mand. or Elect.",
       "total_quota": 24,
       "enrollment": {
@@ -81,14 +81,14 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -109,21 +109,21 @@
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "IE 202-002"
     },
     "IE 202-003": {
-      "instructor": "Oya Karaşan",
+      "instructor": "Oya Karaşan  Bahar Yetiş",
       "quota": "24 Mand. or Elect.",
       "total_quota": 24,
       "enrollment": {
@@ -135,21 +135,21 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -163,7 +163,7 @@
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -177,7 +177,7 @@
       "name": "IE 202-003"
     },
     "IE 202-004": {
-      "instructor": "Oya Karaşan",
+      "instructor": "Oya Karaşan  Bahar Yetiş",
       "quota": "24 Mand. or Elect.",
       "total_quota": 24,
       "enrollment": {
@@ -189,21 +189,21 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -217,7 +217,7 @@
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -231,7 +231,7 @@
       "name": "IE 202-004"
     },
     "IE 202-005": {
-      "instructor": "Bahar Yetiş",
+      "instructor": "Oya Karaşan  Bahar Yetiş",
       "quota": "24 Mand. or Elect.",
       "total_quota": 24,
       "enrollment": {
@@ -243,28 +243,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
@@ -285,7 +285,7 @@
       "name": "IE 202-005"
     },
     "IE 202-006": {
-      "instructor": "Bahar Yetiş",
+      "instructor": "Oya Karaşan  Bahar Yetiş",
       "quota": "24 Mand. or Elect.",
       "total_quota": 24,
       "enrollment": {
@@ -297,28 +297,28 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-01",
           "class": "Face-to-Face Lecture"
         },
         {

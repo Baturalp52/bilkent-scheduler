@@ -15,9 +15,9 @@
   "code": "PHYS 242",
   "sections": {
     "PHYS 242-001": {
-      "instructor": "Staff",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "instructor": "Şahin Büyükdağlı",
+      "quota": "40 Mand. or Elect.",
+      "total_quota": 40,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -16,8 +16,8 @@
   "sections": {
     "CTIS 285-001": {
       "instructor": "Güneş Karamullaoğlu",
-      "quota": "11 Mand. 0 Elect.",
-      "total_quota": 11,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

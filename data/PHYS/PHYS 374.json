@@ -15,9 +15,9 @@
   "code": "PHYS 374",
   "sections": {
     "PHYS 374-001": {
-      "instructor": "Staff",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "instructor": "Onur Tokel",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -83,9 +83,9 @@
       "name": "PHYS 374-001"
     },
     "PHYS 374-002": {
-      "instructor": "Staff",
-      "quota": "0 Mand. or Elect.",
-      "total_quota": 0,
+      "instructor": "Onur Tokel",
+      "quota": "15 Mand. or Elect.",
+      "total_quota": 15,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

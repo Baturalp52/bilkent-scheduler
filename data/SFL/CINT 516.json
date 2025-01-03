@@ -1,0 +1,79 @@
+{
+  "name": "Conference Interpreting",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 5
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 6
+  },
+  "code": "CINT 516",
+  "sections": {
+    "CINT 516-001": {
+      "instructor": "Ebru Kanık  Yiğit Bener",
+      "quota": "4 Mand. or Elect.",
+      "total_quota": 4,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CINT 516-001"
+    }
+  }
+}

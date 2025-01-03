@@ -15,9 +15,9 @@
   "code": "MATH 241",
   "sections": {
     "MATH 241-001": {
-      "instructor": "Hitay Özbay",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "Tolga Çukur",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -55,9 +55,9 @@
       "name": "MATH 241-001"
     },
     "MATH 241-002": {
-      "instructor": "Hitay Özbay",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "Yiğitcan Eryaman",
+      "quota": "55 Mand. 0 Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

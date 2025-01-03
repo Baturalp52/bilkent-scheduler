@@ -16,8 +16,8 @@
   "sections": {
     "COMD 102-001": {
       "instructor": "Jülide Akşiyote Görür",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -98,8 +98,8 @@
     },
     "COMD 102-002": {
       "instructor": "Jülide Akşiyote Görür",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -180,8 +180,8 @@
     },
     "COMD 102-003": {
       "instructor": "Egemen Kırkağaç",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -261,9 +261,9 @@
       "name": "COMD 102-003"
     },
     "COMD 102-004": {
-      "instructor": "Egemen Kırkağaç",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
+      "instructor": "Staff",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

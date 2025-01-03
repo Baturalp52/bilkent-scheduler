@@ -15,9 +15,9 @@
   "code": "FA 104",
   "sections": {
     "FA 104-001": {
-      "instructor": "Staff",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "instructor": "Birsu Semra Çeltek",
+      "quota": "17 Mand. 0 Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -84,8 +84,8 @@
     },
     "FA 104-002": {
       "instructor": "Birsu Semra Çeltek",
-      "quota": "22 Mand. 0 Elect.",
-      "total_quota": 22,
+      "quota": "17 Mand. 0 Elect.",
+      "total_quota": 17,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -95,56 +95,56 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FC-213(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FC-213(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FC-213",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FC-213",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FC-213",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FC-213",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FC-213",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FC-213",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

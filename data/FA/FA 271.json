@@ -15,7 +15,7 @@
   "code": "FA 271",
   "sections": {
     "FA 271-001": {
-      "instructor": "Birsu Semra Çeltek",
+      "instructor": "Yasemin Gümüş Ağca",
       "quota": "30 Mand. 0 Elect.",
       "total_quota": 30,
       "enrollment": {
@@ -53,46 +53,6 @@
         }
       ],
       "name": "FA 271-001"
-    },
-    "FA 271-002": {
-      "instructor": "Staff",
-      "quota": "30 Mand. 0 Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-310(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-310",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FB-310",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FB-310",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "FA 271-002"
     }
   }
 }

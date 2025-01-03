@@ -15,37 +15,37 @@
   "code": "THR 339",
   "sections": {
     "THR 339-001": {
-      "instructor": "Staff",
-      "quota": "10 Mand. 0 Elect.",
-      "total_quota": 10,
+      "instructor": "Hande Vural Johnson",
+      "quota": "11 Mand. 0 Elect.",
+      "total_quota": 11,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",

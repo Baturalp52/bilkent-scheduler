@@ -16,8 +16,8 @@
   "sections": {
     "CHEM 328-001": {
       "instructor": "Şefik Süzer",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "(S)",
+          "place": "SB-Z04(S)",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "SB-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "SB-Z04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "SB-Z04",
           "class": "Face-to-Face Lecture"
         }
       ],

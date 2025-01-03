@@ -15,7 +15,7 @@
   "code": "GRA 421",
   "sections": {
     "GRA 421-001": {
-      "instructor": "Birsu Semra Çeltek",
+      "instructor": "Marek Brzozowski",
       "quota": "18 Mand. or Elect.",
       "total_quota": 18,
       "enrollment": {
@@ -24,35 +24,75 @@
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-121(S)",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-220",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-121",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-220",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-121",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-220",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-121",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-220(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "GRA 421-001"
+    },
+    "GRA 421-002": {
+      "instructor": "Marek Brzozowski",
+      "quota": "18 Mand. or Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FB-220(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FB-220",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-220",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-220",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "GRA 421-002"
     }
   }
 }

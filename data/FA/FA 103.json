@@ -15,7 +15,7 @@
   "code": "FA 103",
   "sections": {
     "FA 103-001": {
-      "instructor": "Staff",
+      "instructor": "Birsu Semra Çeltek",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -24,35 +24,14 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-219(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-219",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-219",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-219",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
           "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-219",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "FB-219",
@@ -66,6 +45,13 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-219",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
@@ -73,7 +59,21 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-219",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FB-219(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
           "start": "16:30",
           "end": "17:20",
           "place": "FB-219(S)",

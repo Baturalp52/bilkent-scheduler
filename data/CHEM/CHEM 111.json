@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "CHEM 111",
-  "sections": {}
+  "sections": {
+    "CHEM 111-001": {
+      "instructor": "Ferdi Karadaş",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "V-02(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "V-02",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CHEM 111-001"
+    }
+  }
 }

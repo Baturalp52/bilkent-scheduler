@@ -15,9 +15,9 @@
   "code": "ME 381",
   "sections": {
     "ME 381-001": {
-      "instructor": "Ömer Aka Anlağan",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Staff",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -55,9 +55,9 @@
       "name": "ME 381-001"
     },
     "ME 381-002": {
-      "instructor": "Ömer Aka Anlağan",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Staff",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

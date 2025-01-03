@@ -15,7 +15,7 @@
   "code": "COMD 482",
   "sections": {
     "COMD 482-001": {
-      "instructor": "Fulten Larlar",
+      "instructor": "Ufuk Önen",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -24,77 +24,37 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-110",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FFB-008",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-110",
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FFB-008",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-110",
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FFB-008",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-110",
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FFB-008",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 482-001"
     },
     "COMD 482-002": {
-      "instructor": "Fulten Larlar",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-110",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-110",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-110",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-110",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "COMD 482-002"
-    },
-    "COMD 482-003": {
       "instructor": "Staff",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
@@ -105,34 +65,114 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-310",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-B11",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-310",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-B11",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-310",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-B11",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-310",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-B11",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "COMD 482-002"
+    },
+    "COMD 482-003": {
+      "instructor": "Ufuk Önen",
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FFB-008",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FFB-008",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "COMD 482-003"
+    },
+    "COMD 482-004": {
+      "instructor": "Emel Özdora",
+      "quota": "15 Mand. 0 Elect.",
+      "total_quota": 15,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-B11",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-B11",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-B11",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-B11",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "COMD 482-004"
     }
   }
 }

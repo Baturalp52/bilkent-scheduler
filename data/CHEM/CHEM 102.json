@@ -16,8 +16,8 @@
   "sections": {
     "CHEM 102-001": {
       "instructor": "Bilge Baytekin",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -83,9 +83,9 @@
       "name": "CHEM 102-001"
     },
     "CHEM 102-002": {
-      "instructor": "Halil İbrahim Okur",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "instructor": "Ferdi Karadaş",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -15,37 +15,37 @@
   "code": "MAN 341",
   "sections": {
     "MAN 341-001": {
-      "instructor": "Eyüp Emre Berk",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "instructor": "Feray Tunçalp",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
           "place": "",
@@ -55,37 +55,37 @@
       "name": "MAN 341-001"
     },
     "MAN 341-002": {
-      "instructor": "Eyüp Emre Berk",
-      "quota": "40 Mand. 0 Elect.",
-      "total_quota": 40,
+      "instructor": "Staff",
+      "quota": "35 Mand. 0 Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "15:30",
           "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Friday",
           "start": "16:30",
           "end": "17:20",
           "place": "",

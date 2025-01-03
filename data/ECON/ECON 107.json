@@ -24,30 +24,30 @@
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
@@ -55,7 +55,7 @@
       "name": "ECON 107-001"
     },
     "ECON 107-002": {
-      "instructor": "Staff",
+      "instructor": "Çağla Ökten",
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
@@ -64,28 +64,28 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -95,7 +95,7 @@
       "name": "ECON 107-002"
     },
     "ECON 107-003": {
-      "instructor": "Staff",
+      "instructor": "Eda Gürel",
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
@@ -104,30 +104,30 @@
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

@@ -15,7 +15,7 @@
   "code": "COMD 511",
   "sections": {
     "COMD 511-001": {
-      "instructor": "Ayşenur Dal Tokdemir",
+      "instructor": "Emel Özdora",
       "quota": "25 Mand. 0 Elect.",
       "total_quota": 25,
       "enrollment": {
@@ -24,31 +24,31 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FA-122(S)",
+          "place": "FC-209(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FA-122",
+          "place": "FC-209",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FA-122",
+          "place": "FC-209",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FA-122",
+          "place": "FC-209",
           "class": "Face-to-Face Lecture"
         }
       ],

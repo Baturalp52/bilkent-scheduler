@@ -1,0 +1,79 @@
+{
+  "name": "Advanced Simultaneous Interpreting II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 1
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 5
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 6
+  },
+  "code": "CINT 514",
+  "sections": {
+    "CINT 514-001": {
+      "instructor": "Yiğit Bener  Zeynep Şengel",
+      "quota": "4 Mand. or Elect.",
+      "total_quota": 4,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "CINT 514-001"
+    }
+  }
+}

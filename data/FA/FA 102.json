@@ -15,7 +15,7 @@
   "code": "FA 102",
   "sections": {
     "FA 102-001": {
-      "instructor": "Burçak Altay",
+      "instructor": "Sema Karamanoğlu",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -83,7 +83,7 @@
       "name": "FA 102-001"
     },
     "FA 102-002": {
-      "instructor": "Çağrı İmamoğlu",
+      "instructor": "Burçak Altay",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -151,7 +151,7 @@
       "name": "FA 102-002"
     },
     "FA 102-003": {
-      "instructor": "Staff",
+      "instructor": "Cem Dedekargınoğlu",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -287,7 +287,7 @@
       "name": "FA 102-004"
     },
     "FA 102-005": {
-      "instructor": "Sema Karamanoğlu",
+      "instructor": "Staff",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -491,7 +491,7 @@
       "name": "FA 102-007"
     },
     "FA 102-008": {
-      "instructor": "Aysu Berk",
+      "instructor": "Staff",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -559,7 +559,7 @@
       "name": "FA 102-008"
     },
     "FA 102-009": {
-      "instructor": "Ayşe Henry",
+      "instructor": "Aysu Berk Haznedaroğlu",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -627,7 +627,7 @@
       "name": "FA 102-009"
     },
     "FA 102-010": {
-      "instructor": "Staff",
+      "instructor": "Osman Batuhan Türker",
       "quota": "15 Mand. 0 Elect.",
       "total_quota": 15,
       "enrollment": {
@@ -965,74 +965,6 @@
         }
       ],
       "name": "FA 102-014"
-    },
-    "FA 102-015": {
-      "instructor": "Staff",
-      "quota": "15 Mand. 0 Elect.",
-      "total_quota": 15,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "FA 102-015"
     }
   }
 }

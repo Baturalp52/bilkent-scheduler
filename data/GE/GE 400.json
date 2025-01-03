@@ -15,9 +15,9 @@
   "code": "GE 400",
   "sections": {
     "GE 400-001": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Fatma Tahire Erman  John William Day",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -69,9 +69,9 @@
       "name": "GE 400-001"
     },
     "GE 400-002": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Özlem Sefer  Katherine Halley Willcox Özsarı",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -123,9 +123,9 @@
       "name": "GE 400-002"
     },
     "GE 400-003": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Türkan Mine Kara  John William Day",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -177,9 +177,9 @@
       "name": "GE 400-003"
     },
     "GE 400-004": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Ioannis N. Grigoriadis  Katherine Halley Willcox Özsarı",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -231,9 +231,9 @@
       "name": "GE 400-004"
     },
     "GE 400-005": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "John William Day  Onur Erpul",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -285,9 +285,9 @@
       "name": "GE 400-005"
     },
     "GE 400-006": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Türkan Mine Kara  Katherine Halley Willcox Özsarı",
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

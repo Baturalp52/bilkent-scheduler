@@ -15,9 +15,9 @@
   "code": "MBG 338",
   "sections": {
     "MBG 338-001": {
-      "instructor": "Serkan Belkaya",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "instructor": "Urartu Özgür Şafak Şeker",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -31,11 +31,39 @@
           "class": "Face-to-Face Lecture"
         },
         {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",

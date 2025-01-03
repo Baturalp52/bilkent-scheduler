@@ -31,6 +31,13 @@
           "class": "Face-to-Face Lecture"
         },
         {
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Recitation"
+        },
+        {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",

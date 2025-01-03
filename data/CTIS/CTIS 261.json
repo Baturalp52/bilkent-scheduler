@@ -6,12 +6,53 @@
   },
   "labStudioOthersHours": {
     "hybrid": 0,
-    "faceToFace": 2
+    "faceToFace": 0
   },
   "credits": {
     "bilkent": 0,
     "ECTS": 3
   },
   "code": "CTIS 261",
-  "sections": {}
+  "sections": {
+    "CTIS 261-001": {
+      "instructor": "Hamdi Murat Yıldırım",
+      "quota": "26 Mand. 0 Elect.",
+      "total_quota": 26,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "C-CTISL3(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "C-CTISL3",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "C-CTISL3",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "C-CTISL3",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "CTIS 261-001"
+    }
+  }
 }

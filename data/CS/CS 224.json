@@ -15,7 +15,7 @@
   "code": "CS 224",
   "sections": {
     "CS 224-001": {
-      "instructor": "Ayşegül Dündar Boral",
+      "instructor": "Fazlı Can",
       "quota": "33 Mand. or Elect.",
       "total_quota": 33,
       "enrollment": {
@@ -24,13 +24,6 @@
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
@@ -38,13 +31,6 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
@@ -52,17 +38,10 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -73,17 +52,38 @@
           "class": "Face-to-Face Lecture"
         },
         {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "EA-Z04",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "EA-Z04",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "EA-Z04",
+          "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 224-001"
     },
     "CS 224-002": {
-      "instructor": "Ayşegül Dündar Boral",
+      "instructor": "Fazlı Can",
       "quota": "33 Mand. or Elect.",
       "total_quota": 33,
       "enrollment": {
@@ -109,7 +109,7 @@
           "day": "Wednesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -123,7 +123,7 @@
           "day": "Wednesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -137,21 +137,21 @@
           "day": "Wednesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "CS 224-002"
     },
     "CS 224-003": {
-      "instructor": "Alper Sarıkan",
+      "instructor": "Fazlı Can",
       "quota": "33 Mand. or Elect.",
       "total_quota": 33,
       "enrollment": {
@@ -177,21 +177,21 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -205,7 +205,7 @@
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -219,7 +219,7 @@
       "name": "CS 224-003"
     },
     "CS 224-004": {
-      "instructor": "Alper Sarıkan",
+      "instructor": "Fazlı Can",
       "quota": "33 Mand. or Elect.",
       "total_quota": 33,
       "enrollment": {
@@ -231,14 +231,14 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -252,7 +252,7 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -266,7 +266,7 @@
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -287,7 +287,7 @@
       "name": "CS 224-004"
     },
     "CS 224-005": {
-      "instructor": "Fazlı Can",
+      "instructor": "Alper Sarıkan",
       "quota": "33 Mand. or Elect.",
       "total_quota": 33,
       "enrollment": {
@@ -296,17 +296,24 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EA-Z04",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -317,10 +324,10 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -329,13 +336,6 @@
           "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
@@ -355,7 +355,7 @@
       "name": "CS 224-005"
     },
     "CS 224-006": {
-      "instructor": "Fazlı Can",
+      "instructor": "Alper Sarıkan",
       "quota": "33 Mand. or Elect.",
       "total_quota": 33,
       "enrollment": {
@@ -381,14 +381,14 @@
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -402,7 +402,7 @@
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -416,7 +416,7 @@
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "EA-Z04",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

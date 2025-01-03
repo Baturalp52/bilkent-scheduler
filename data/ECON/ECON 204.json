@@ -25,46 +25,6 @@
       "schedule": [
         {
           "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "ECON 204-001"
-    },
-    "ECON 204-002": {
-      "instructor": "Kevin Edward Hasker",
-      "quota": "60 Mand. 0 Elect.",
-      "total_quota": 60,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "(S)",
@@ -88,6 +48,46 @@
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "ECON 204-001"
+    },
+    "ECON 204-002": {
+      "instructor": "Kemal Yıldız",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

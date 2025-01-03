@@ -1,5 +1,5 @@
 {
-  "name": "Microprocessors",
+  "name": "Microcontrollers and Embedded Systems",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -15,9 +15,9 @@
   "code": "EEE 212",
   "sections": {
     "EEE 212-001": {
-      "instructor": "Aykut Koç",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "instructor": "Muhammed Ömer Sayın",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -31,10 +31,10 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -45,24 +45,24 @@
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -83,9 +83,9 @@
       "name": "EEE 212-001"
     },
     "EEE 212-002": {
-      "instructor": "Muhammed Ömer Sayın",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "instructor": "Aykut Koç",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -109,21 +109,21 @@
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -137,7 +137,7 @@
           "day": "Monday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -151,9 +151,9 @@
       "name": "EEE 212-002"
     },
     "EEE 212-003": {
-      "instructor": "Aykut Koç",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "instructor": "Nail Akar",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -163,14 +163,14 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -184,7 +184,7 @@
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -198,7 +198,7 @@
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {

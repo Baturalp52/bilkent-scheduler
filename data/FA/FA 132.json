@@ -16,8 +16,8 @@
   "sections": {
     "FA 132-001": {
       "instructor": "Alper Küçük",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,28 +27,28 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FF-312",
+          "place": "FF-101",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FF-312",
+          "place": "FF-101",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FF-312",
+          "place": "FF-101",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FF-312(S)",
+          "place": "FF-101(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -56,8 +56,8 @@
     },
     "FA 132-002": {
       "instructor": "Burcu Egel",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -96,168 +96,8 @@
     },
     "FA 132-003": {
       "instructor": "Burcu Egel",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-107(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "FA 132-003"
-    },
-    "FA 132-004": {
-      "instructor": "Staff",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-107(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-107",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "FA 132-004"
-    },
-    "FA 132-005": {
-      "instructor": "Sema Karamanoğlu",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-305",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-305",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FF-305",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FF-305(S)",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "FA 132-005"
-    },
-    "FA 132-006": {
-      "instructor": "Alper Küçük",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-312(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-312",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FF-312",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FF-312",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "FA 132-006"
-    },
-    "FA 132-007": {
-      "instructor": "Staff",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -292,12 +132,52 @@
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "FA 132-007"
+      "name": "FA 132-003"
     },
-    "FA 132-008": {
-      "instructor": "Staff",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+    "FA 132-004": {
+      "instructor": "Sema Karamanoğlu",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-310",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-310",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-310",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-310(S)",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "FA 132-004"
+    },
+    "FA 132-005": {
+      "instructor": "Alper Küçük",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -307,32 +187,112 @@
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FF-305(S)",
+          "place": "FF-101(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FF-305",
+          "place": "FF-101",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FF-305",
+          "place": "FF-101",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FF-305",
+          "place": "FF-101",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
-      "name": "FA 132-008"
+      "name": "FA 132-005"
+    },
+    "FA 132-006": {
+      "instructor": "Staff",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FF-107",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FF-107",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FF-107",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "FF-107(S)",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "FA 132-006"
+    },
+    "FA 132-007": {
+      "instructor": "Staff",
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FF-107(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FF-107",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FF-107",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FF-107",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "FA 132-007"
     }
   }
 }

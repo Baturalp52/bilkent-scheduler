@@ -13,5 +13,32 @@
     "ECTS": 2
   },
   "code": "LAW 216",
-  "sections": {}
+  "sections": {
+    "LAW 216-001": {
+      "instructor": "Staff",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "18:30",
+          "end": "19:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "19:30",
+          "end": "20:20",
+          "place": "",
+          "class": "Online/Hybrid Lecture"
+        }
+      ],
+      "name": "LAW 216-001"
+    }
+  }
 }

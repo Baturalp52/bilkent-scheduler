@@ -13,5 +13,46 @@
     "ECTS": 3
   },
   "code": "PSYC 410",
-  "sections": {}
+  "sections": {
+    "PSYC 410-001": {
+      "instructor": "Ausaf Ahmed Farooqui",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "PSYC 410-001"
+    }
+  }
 }

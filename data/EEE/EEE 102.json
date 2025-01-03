@@ -1,5 +1,5 @@
 {
-  "name": "Introduction to Digital Circuit Design",
+  "name": "Digital Logic Design",
   "lectureHours": {
     "hybrid": 0,
     "online": 4
@@ -15,11 +15,11 @@
   "code": "EEE 102",
   "sections": {
     "EEE 102-001": {
-      "instructor": "Ergin Atalar",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Cem Tekin",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 47,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -27,67 +27,67 @@
           "day": "Monday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "EE-517",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "EE-517",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Monday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "EE-517",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "EE-517",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "EEE 102-001"
     },
     "EEE 102-002": {
-      "instructor": "Ergin Atalar",
-      "quota": "64 Mand. or Elect.",
-      "total_quota": 64,
+      "instructor": "Cem Tekin",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 64,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -95,14 +95,14 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -116,7 +116,7 @@
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -130,7 +130,7 @@
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -151,11 +151,11 @@
       "name": "EEE 102-002"
     },
     "EEE 102-003": {
-      "instructor": "Cem Tekin",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
+      "instructor": "Mustafa Sanlı",
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 47,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -184,7 +184,7 @@
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
@@ -198,21 +198,21 @@
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

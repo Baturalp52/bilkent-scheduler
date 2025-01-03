@@ -16,8 +16,8 @@
   "sections": {
     "LAUD 252-001": {
       "instructor": "Staff",
-      "quota": "15 Mand. or Elect.",
-      "total_quota": 15,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,30 +25,30 @@
       "schedule": [
         {
           "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FA-313",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FA-118",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FA-313",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FA-118",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FA-313",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FA-118",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "FA-313",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FA-118",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

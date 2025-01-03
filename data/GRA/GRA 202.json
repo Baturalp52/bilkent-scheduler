@@ -16,8 +16,8 @@
   "sections": {
     "GRA 202-001": {
       "instructor": "Marek Brzozowski",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -98,8 +98,8 @@
     },
     "GRA 202-002": {
       "instructor": "Çağatay Alpay",
-      "quota": "25 Mand. 0 Elect.",
-      "total_quota": 25,
+      "quota": "18 Mand. 0 Elect.",
+      "total_quota": 18,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

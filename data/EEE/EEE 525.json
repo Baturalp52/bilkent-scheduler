@@ -16,8 +16,8 @@
   "sections": {
     "EEE 525-001": {
       "instructor": "Levent Onural",
-      "quota": "50 Mand. or Elect.",
-      "total_quota": 50,
+      "quota": "30 Mand. or Elect.",
+      "total_quota": 30,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

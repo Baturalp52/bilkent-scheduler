@@ -16,38 +16,38 @@
   "sections": {
     "ELIT 392-001": {
       "instructor": "Atti Viragh",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Monday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
           "day": "Monday",
-          "start": "11:30",
-          "end": "12:20",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }
@@ -56,38 +56,38 @@
     },
     "ELIT 392-002": {
       "instructor": "Atti Viragh",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "quota": "25 Mand. or Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

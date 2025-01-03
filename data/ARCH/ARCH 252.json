@@ -15,7 +15,7 @@
   "code": "ARCH 252",
   "sections": {
     "ARCH 252-001": {
-      "instructor": "Staff",
+      "instructor": "Deniz Üçer Erduran",
       "quota": "40 Mand. or Elect.",
       "total_quota": 40,
       "enrollment": {
@@ -24,7 +24,7 @@
       },
       "schedule": [
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
@@ -38,7 +38,7 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Monday",
+          "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
@@ -52,14 +52,14 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
           "place": "",
@@ -78,11 +78,25 @@
       },
       "schedule": [
         {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
           "day": "Friday",
           "start": "08:30",
           "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         },
         {
           "day": "Friday",
@@ -92,30 +106,16 @@
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
+          "day": "Friday",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "16:30",
-          "end": "17:20",
+          "day": "Friday",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

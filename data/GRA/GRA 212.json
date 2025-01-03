@@ -15,9 +15,9 @@
   "code": "GRA 212",
   "sections": {
     "GRA 212-001": {
-      "instructor": "Can İzzet Birand",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "instructor": "Çavlan Başarır",
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,30 +25,30 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "FB-221",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "FB-221",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "FB-221",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "FB-221(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-221",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-221",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-221",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
@@ -56,8 +56,8 @@
     },
     "GRA 212-002": {
       "instructor": "Çavlan Başarır",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
+      "quota": "20 Mand. 0 Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,72 +67,32 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FB-321(S)",
+          "place": "FB-115(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FB-321",
+          "place": "FB-115",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FB-321",
+          "place": "FB-115",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FB-321",
+          "place": "FB-115",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "GRA 212-002"
-    },
-    "GRA 212-003": {
-      "instructor": "Can İzzet Birand",
-      "quota": "18 Mand. 0 Elect.",
-      "total_quota": 18,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Friday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FB-221(S)",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FB-221",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "FB-221",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "FB-221",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "GRA 212-003"
     }
   }
 }

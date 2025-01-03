@@ -15,51 +15,51 @@
   "code": "MATH 101",
   "sections": {
     "MATH 101-001": {
-      "instructor": "Hakkı Turgay Kaptanoğlu",
-      "quota": "65 Mand. or Elect.",
+      "instructor": "Ahmet Muhtar Güloğlu",
+      "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 64,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "B-Z08",
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "B-Z08",
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "B-Z08",
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
-          "place": "B-Z08",
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "MATH 101-001"
     },
     "MATH 101-002": {
-      "instructor": "Cihan Okay",
-      "quota": "65 Mand. or Elect.",
+      "instructor": "Hamza Yeşilyurt",
+      "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 65,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -95,11 +95,11 @@
       "name": "MATH 101-002"
     },
     "MATH 101-003": {
-      "instructor": "Hatice Özcan",
-      "quota": "65 Mand. or Elect.",
+      "instructor": "Ahmet Muhtar Güloğlu",
+      "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
-        "mandatory": 65,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -135,11 +135,11 @@
       "name": "MATH 101-003"
     },
     "MATH 101-004": {
-      "instructor": "Ali Sinan Sertöz",
-      "quota": "66 Mand. or Elect.",
-      "total_quota": 66,
+      "instructor": "Hamza Yeşilyurt",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 66,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -175,11 +175,11 @@
       "name": "MATH 101-004"
     },
     "MATH 101-005": {
-      "instructor": "Ali Sinan Sertöz",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "instructor": "Muhammet Yasir Kızmaz",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
-        "mandatory": 65,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [

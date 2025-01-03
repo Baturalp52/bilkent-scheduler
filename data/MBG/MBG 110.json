@@ -95,7 +95,7 @@
       "name": "MBG 110-002"
     },
     "MBG 110-003": {
-      "instructor": "İlyas Chachoua",
+      "instructor": "Volkan Yazar",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -135,7 +135,7 @@
       "name": "MBG 110-003"
     },
     "MBG 110-004": {
-      "instructor": "Özhan Öçal",
+      "instructor": "Pınar Önal",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -175,7 +175,7 @@
       "name": "MBG 110-004"
     },
     "MBG 110-005": {
-      "instructor": "Özlen Konu Karakayalı",
+      "instructor": "Özhan Öçal",
       "quota": "65 Mand. or Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -224,6 +224,46 @@
       },
       "schedule": [
         {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "(S)",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MBG 110-006"
+    },
+    "MBG 110-007": {
+      "instructor": "Özhan Öçal",
+      "quota": "65 Mand. or Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
@@ -248,46 +288,6 @@
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "MBG 110-006"
-    },
-    "MBG 110-007": {
-      "instructor": "Özhan Öçal",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

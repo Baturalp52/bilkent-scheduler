@@ -15,7 +15,7 @@
   "code": "MATH 260",
   "sections": {
     "MATH 260-001": {
-      "instructor": "Staff",
+      "instructor": "Eyüp Yalçınkaya",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -55,7 +55,7 @@
       "name": "MATH 260-001"
     },
     "MATH 260-002": {
-      "instructor": "Staff",
+      "instructor": "Dilek Köksal",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -95,7 +95,7 @@
       "name": "MATH 260-002"
     },
     "MATH 260-003": {
-      "instructor": "Staff",
+      "instructor": "Dilek Köksal",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -104,30 +104,30 @@
       },
       "schedule": [
         {
-          "day": "Thursday",
-          "start": "08:30",
-          "end": "09:20",
+          "day": "Monday",
+          "start": "10:30",
+          "end": "11:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
-          "start": "09:30",
-          "end": "10:20",
+          "day": "Monday",
+          "start": "11:30",
+          "end": "12:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
+          "day": "Wednesday",
+          "start": "15:30",
+          "end": "16:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Monday",
-          "start": "14:30",
-          "end": "15:20",
+          "day": "Wednesday",
+          "start": "16:30",
+          "end": "17:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

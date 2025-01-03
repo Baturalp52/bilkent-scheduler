@@ -16,8 +16,8 @@
   "sections": {
     "CHEM 504-001": {
       "instructor": "Ömer Dağ",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "20 Mand. or Elect.",
+      "total_quota": 20,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -16,8 +16,8 @@
   "sections": {
     "GRA 316-001": {
       "instructor": "Erhan Tunalı",
-      "quota": "16 Mand. 0 Elect.",
-      "total_quota": 16,
+      "quota": "25 Mand. 0 Elect.",
+      "total_quota": 25,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -27,32 +27,72 @@
           "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "(S)",
+          "place": "FB-314(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "FB-314",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "",
+          "place": "FB-314",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Wednesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "",
+          "place": "FB-314",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "GRA 316-001"
+    },
+    "GRA 316-002": {
+      "instructor": "Can İzzet Birand",
+      "quota": "25 Mand. 0 Elect.",
+      "total_quota": 25,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "FB-321(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FB-321",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-321",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-321",
+          "class": "Face-to-Face Lab/Studio"
+        }
+      ],
+      "name": "GRA 316-002"
     }
   }
 }

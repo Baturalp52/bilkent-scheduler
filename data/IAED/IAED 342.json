@@ -15,9 +15,9 @@
   "code": "IAED 342",
   "sections": {
     "IAED 342-001": {
-      "instructor": "Yasemin Afacan",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "instructor": "Nuri Cihan Kayaçetin",
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -55,49 +55,9 @@
       "name": "IAED 342-001"
     },
     "IAED 342-002": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Tuesday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "FF-106(S)",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Tuesday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "FF-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FF-106",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Thursday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FF-106",
-          "class": "Face-to-Face Lecture"
-        }
-      ],
-      "name": "IAED 342-002"
-    },
-    "IAED 342-003": {
       "instructor": "Yasemin Afacan",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -132,12 +92,12 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "IAED 342-003"
+      "name": "IAED 342-002"
     },
-    "IAED 342-004": {
-      "instructor": "Staff",
-      "quota": "30 Mand. or Elect.",
-      "total_quota": 30,
+    "IAED 342-003": {
+      "instructor": "Nuri Cihan Kayaçetin",
+      "quota": "35 Mand. or Elect.",
+      "total_quota": 35,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -172,7 +132,7 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "IAED 342-004"
+      "name": "IAED 342-003"
     }
   }
 }

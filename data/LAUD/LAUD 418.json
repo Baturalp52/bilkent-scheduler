@@ -15,40 +15,40 @@
   "code": "LAUD 418",
   "sections": {
     "LAUD 418-001": {
-      "instructor": "Staff",
-      "quota": "20 Mand. or Elect.",
-      "total_quota": 20,
+      "instructor": "Ahmet Oktan Nalbantoğlu",
+      "quota": "10 Mand. or Elect.",
+      "total_quota": 10,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FA-118",
+          "place": "FA-313",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FA-118",
+          "place": "FA-313",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FA-118",
+          "place": "FA-313",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FA-118",
+          "place": "FA-313",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

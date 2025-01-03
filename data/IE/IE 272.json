@@ -16,8 +16,62 @@
   "sections": {
     "IE 272-001": {
       "instructor": "Yiğit Karpat",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Monday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "B-303",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Monday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "B-303",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Wednesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "IE 272-001"
+    },
+    "IE 272-002": {
+      "instructor": "Yiğit Karpat",
+      "quota": "45 Mand. or Elect.",
+      "total_quota": 45,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -66,7 +120,7 @@
           "class": "Face-to-Face Lecture"
         }
       ],
-      "name": "IE 272-001"
+      "name": "IE 272-002"
     }
   }
 }

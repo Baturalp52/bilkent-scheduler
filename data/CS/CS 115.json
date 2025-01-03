@@ -15,9 +15,9 @@
   "code": "CS 115",
   "sections": {
     "CS 115-001": {
-      "instructor": "İpek Sözen",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "instructor": "Lori Rae Russell Dağ",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -84,8 +84,8 @@
     },
     "CS 115-002": {
       "instructor": "Lori Rae Russell Dağ",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -152,8 +152,8 @@
     },
     "CS 115-003": {
       "instructor": "İpek Sözen",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -220,8 +220,8 @@
     },
     "CS 115-004": {
       "instructor": "İpek Sözen",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -288,8 +288,8 @@
     },
     "CS 115-005": {
       "instructor": "İpek Sözen",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -355,9 +355,9 @@
       "name": "CS 115-005"
     },
     "CS 115-006": {
-      "instructor": "Lori Rae Russell Dağ",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "instructor": "İpek Sözen",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

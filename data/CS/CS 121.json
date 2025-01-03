@@ -15,7 +15,7 @@
   "code": "CS 121",
   "sections": {
     "CS 121-001": {
-      "instructor": "Ayışığı Başak Sevdik Çallı",
+      "instructor": "Nur Sağlam",
       "quota": "54 Mand. or Elect.",
       "total_quota": 54,
       "enrollment": {
@@ -55,7 +55,7 @@
       "name": "CS 121-001"
     },
     "CS 121-002": {
-      "instructor": "Nur Sağlam",
+      "instructor": "Rabia Üşenmez",
       "quota": "54 Mand. or Elect.",
       "total_quota": 54,
       "enrollment": {
@@ -95,7 +95,7 @@
       "name": "CS 121-002"
     },
     "CS 121-003": {
-      "instructor": "Nur Sağlam",
+      "instructor": "Rabia Üşenmez",
       "quota": "54 Mand. or Elect.",
       "total_quota": 54,
       "enrollment": {
@@ -135,7 +135,7 @@
       "name": "CS 121-003"
     },
     "CS 121-004": {
-      "instructor": "Rabia Üşenmez",
+      "instructor": "Ayışığı Başak Sevdik Çallı",
       "quota": "54 Mand. or Elect.",
       "total_quota": 54,
       "enrollment": {
@@ -255,7 +255,7 @@
       "name": "CS 121-006"
     },
     "CS 121-007": {
-      "instructor": "Rabia Üşenmez",
+      "instructor": "Nur Sağlam",
       "quota": "54 Mand. or Elect.",
       "total_quota": 54,
       "enrollment": {
@@ -304,32 +304,32 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
           "day": "Friday",
-          "start": "15:30",
-          "end": "16:20",
+          "start": "08:30",
+          "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
-          "start": "16:30",
-          "end": "17:20",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
         }
       ],
       "name": "CS 121-008"
@@ -373,46 +373,6 @@
         }
       ],
       "name": "CS 121-009"
-    },
-    "CS 121-010": {
-      "instructor": "Staff",
-      "quota": "55 Mand. or Elect.",
-      "total_quota": 55,
-      "enrollment": {
-        "mandatory": 0,
-        "elective": 0
-      },
-      "schedule": [
-        {
-          "day": "Monday",
-          "start": "08:30",
-          "end": "09:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "09:30",
-          "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Face-to-Face Lab/Studio"
-        }
-      ],
-      "name": "CS 121-010"
     }
   }
 }

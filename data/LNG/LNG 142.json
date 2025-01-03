@@ -15,7 +15,7 @@
   "code": "LNG 142",
   "sections": {
     "LNG 142-001": {
-      "instructor": "Staff",
+      "instructor": "Nilay Kanarya",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -25,29 +25,29 @@
       "schedule": [
         {
           "day": "Thursday",
-          "start": "10:30",
-          "end": "11:20",
+          "start": "08:30",
+          "end": "09:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
-          "start": "11:30",
-          "end": "12:20",
+          "start": "09:30",
+          "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "15:30",
-          "end": "16:20",
+          "start": "13:30",
+          "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
-          "start": "16:30",
-          "end": "17:20",
+          "start": "14:30",
+          "end": "15:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         }

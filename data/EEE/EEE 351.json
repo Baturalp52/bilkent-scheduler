@@ -16,8 +16,8 @@
   "sections": {
     "EEE 351-001": {
       "instructor": "Vakur Behçet Ertürk",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -56,8 +56,8 @@
     },
     "EEE 351-002": {
       "instructor": "Vakur Behçet Ertürk",
-      "quota": "65 Mand. or Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. or Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

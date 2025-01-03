@@ -15,7 +15,7 @@
   "code": "MATH 102",
   "sections": {
     "MATH 102-001": {
-      "instructor": "Staff",
+      "instructor": "Mehmet Okan Tekman",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -55,7 +55,7 @@
       "name": "MATH 102-001"
     },
     "MATH 102-002": {
-      "instructor": "Staff",
+      "instructor": "Mehmet Okan Tekman",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -95,7 +95,7 @@
       "name": "MATH 102-002"
     },
     "MATH 102-003": {
-      "instructor": "Staff",
+      "instructor": "Konstantinos Maronikolakis",
       "quota": "65 Mand. 0 Elect.",
       "total_quota": 65,
       "enrollment": {
@@ -135,7 +135,7 @@
       "name": "MATH 102-003"
     },
     "MATH 102-004": {
-      "instructor": "Staff",
+      "instructor": "Mehmet Okan Tekman",
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
@@ -175,7 +175,7 @@
       "name": "MATH 102-004"
     },
     "MATH 102-005": {
-      "instructor": "Staff",
+      "instructor": "Konstantinos Maronikolakis",
       "quota": "60 Mand. 0 Elect.",
       "total_quota": 60,
       "enrollment": {
@@ -255,7 +255,7 @@
       "name": "MATH 102-006"
     },
     "MATH 102-007": {
-      "instructor": "Staff",
+      "instructor": "Merve Seçgin",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -295,7 +295,7 @@
       "name": "MATH 102-007"
     },
     "MATH 102-008": {
-      "instructor": "Staff",
+      "instructor": "Naci Saldı",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -375,7 +375,7 @@
       "name": "MATH 102-009"
     },
     "MATH 102-010": {
-      "instructor": "Staff",
+      "instructor": "Merve Seçgin",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -415,7 +415,7 @@
       "name": "MATH 102-010"
     },
     "MATH 102-011": {
-      "instructor": "Staff",
+      "instructor": "Ali Sinan Sertöz",
       "quota": "58 Mand. 0 Elect.",
       "total_quota": 58,
       "enrollment": {
@@ -454,10 +454,90 @@
       ],
       "name": "MATH 102-011"
     },
+    "MATH 102-012": {
+      "instructor": "Naci Saldı",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "08:30",
+          "end": "09:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "14:30",
+          "end": "15:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 102-012"
+    },
+    "MATH 102-013": {
+      "instructor": "Kadri İlker Berktav",
+      "quota": "50 Mand. 0 Elect.",
+      "total_quota": 50,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 102-013"
+    },
     "MATH 102-014": {
-      "instructor": "Staff",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Kadri İlker Berktav",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

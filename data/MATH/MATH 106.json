@@ -15,9 +15,9 @@
   "code": "MATH 106",
   "sections": {
     "MATH 106-001": {
-      "instructor": "Staff",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Alexandre Goncharov",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -55,9 +55,9 @@
       "name": "MATH 106-001"
     },
     "MATH 106-002": {
-      "instructor": "Staff",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Nurdan Kar",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -95,9 +95,9 @@
       "name": "MATH 106-002"
     },
     "MATH 106-003": {
-      "instructor": "Staff",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Kamer Rodoplu",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -135,9 +135,9 @@
       "name": "MATH 106-003"
     },
     "MATH 106-004": {
-      "instructor": "Staff",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Nurdan Kar",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -175,9 +175,9 @@
       "name": "MATH 106-004"
     },
     "MATH 106-005": {
-      "instructor": "Staff",
-      "quota": "58 Mand. 0 Elect.",
-      "total_quota": 58,
+      "instructor": "Tomos Parry",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -213,6 +213,46 @@
         }
       ],
       "name": "MATH 106-005"
+    },
+    "MATH 106-006": {
+      "instructor": "Kamer Rodoplu",
+      "quota": "65 Mand. 0 Elect.",
+      "total_quota": 65,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Thursday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MATH 106-006"
     }
   }
 }

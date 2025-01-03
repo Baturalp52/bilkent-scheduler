@@ -15,7 +15,7 @@
   "code": "ECON 102",
   "sections": {
     "ECON 102-001": {
-      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "instructor": "Ali Hakan Kara",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -27,18 +27,18 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
@@ -48,21 +48,21 @@
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 102-001"
     },
     "ECON 102-002": {
-      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "instructor": "Ali Hakan Kara",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -74,18 +74,18 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
@@ -95,21 +95,21 @@
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 102-002"
     },
     "ECON 102-003": {
-      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "instructor": "Ali Hakan Kara",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -121,18 +121,18 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
@@ -142,21 +142,21 @@
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "ECON 102-003"
     },
     "ECON 102-004": {
-      "instructor": "Ali Hakan Kara  Refet Soykan Gürkaynak",
+      "instructor": "Ali Hakan Kara",
       "quota": "20 Mand. 0 Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -168,18 +168,18 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Monday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
@@ -189,14 +189,14 @@
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -215,28 +215,35 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Recitation"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -255,28 +262,35 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Friday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Recitation"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -295,28 +309,35 @@
           "day": "Tuesday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "",
+          "class": "Recitation"
         },
         {
           "day": "Thursday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -335,36 +356,36 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Recitation"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Recitation"
         }
       ],
       "name": "ECON 102-008"
@@ -382,36 +403,36 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "10:30",
-          "end": "11:20",
-          "place": "",
-          "class": "Recitation"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Recitation"
         }
       ],
       "name": "ECON 102-009"
@@ -429,36 +450,36 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Recitation"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Recitation"
         }
       ],
       "name": "ECON 102-010"
@@ -476,36 +497,36 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Friday",
-          "start": "11:30",
-          "end": "12:20",
-          "place": "",
-          "class": "Recitation"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Recitation"
         }
       ],
       "name": "ECON 102-011"
@@ -523,35 +544,35 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
+          "start": "10:30",
+          "end": "11:20",
           "place": "",
           "class": "Recitation"
         },
         {
           "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -570,35 +591,35 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
-          "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Monday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Wednesday",
-          "start": "13:30",
-          "end": "14:20",
+          "start": "10:30",
+          "end": "11:20",
           "place": "",
           "class": "Recitation"
         },
         {
           "day": "Monday",
+          "start": "13:30",
+          "end": "14:20",
+          "place": "V-04",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         }
       ],
@@ -617,36 +638,36 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Wednesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Recitation"
         },
         {
           "day": "Monday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Monday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "V-04",
           "class": "Face-to-Face Lecture"
-        },
-        {
-          "day": "Wednesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "",
-          "class": "Recitation"
         }
       ],
       "name": "ECON 102-014"

@@ -1,5 +1,5 @@
 {
-  "name": "The World of the Hittites",
+  "name": "Anatolia II- The World of Hittites",
   "lectureHours": {
     "hybrid": 0,
     "online": 3
@@ -16,8 +16,8 @@
   "sections": {
     "HART 325-001": {
       "instructor": "Michele Massa",
-      "quota": "25 Mand. or Elect.",
-      "total_quota": 25,
+      "quota": "0 Mand. or Elect.",
+      "total_quota": 0,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

@@ -24,14 +24,14 @@
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
@@ -41,28 +41,28 @@
           "day": "Saturday",
           "start": "13:30",
           "end": "14:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Saturday",
           "start": "14:30",
           "end": "15:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Saturday",
           "start": "15:30",
           "end": "16:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Saturday",
           "start": "16:30",
           "end": "17:20",
-          "place": "",
+          "place": "EE-LAB103",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

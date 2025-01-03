@@ -1,0 +1,58 @@
+{
+  "name": "Ear Training II",
+  "lectureHours": {
+    "hybrid": 0,
+    "online": 4
+  },
+  "labStudioOthersHours": {
+    "hybrid": 0,
+    "faceToFace": 0
+  },
+  "credits": {
+    "bilkent": 0,
+    "ECTS": 2
+  },
+  "code": "MSC 182",
+  "sections": {
+    "MSC 182-001": {
+      "instructor": "Ülkemin Akbaş",
+      "quota": "3 Mand. or Elect.",
+      "total_quota": 3,
+      "enrollment": {
+        "mandatory": 0,
+        "elective": 0
+      },
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "15:30",
+          "end": "16:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        },
+        {
+          "day": "Thursday",
+          "start": "16:30",
+          "end": "17:20",
+          "place": "",
+          "class": "Face-to-Face Lecture"
+        }
+      ],
+      "name": "MSC 182-001"
+    }
+  }
+}

@@ -16,8 +16,8 @@
   "sections": {
     "GRA 317-001": {
       "instructor": "Çağatay Alpay",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+      "quota": "14 Mand. 0 Elect.",
+      "total_quota": 14,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -25,39 +25,39 @@
       "schedule": [
         {
           "day": "Tuesday",
-          "start": "13:30",
-          "end": "14:20",
-          "place": "FB-221",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "14:30",
-          "end": "15:20",
-          "place": "FB-221",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "15:30",
-          "end": "16:20",
-          "place": "FB-221",
-          "class": "Face-to-Face Lab/Studio"
-        },
-        {
-          "day": "Tuesday",
-          "start": "16:30",
-          "end": "17:20",
+          "start": "08:30",
+          "end": "09:20",
           "place": "FB-221(S)",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "09:30",
+          "end": "10:20",
+          "place": "FB-221",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "10:30",
+          "end": "11:20",
+          "place": "FB-221",
+          "class": "Face-to-Face Lab/Studio"
+        },
+        {
+          "day": "Tuesday",
+          "start": "11:30",
+          "end": "12:20",
+          "place": "FB-221",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "GRA 317-001"
     },
     "GRA 317-002": {
-      "instructor": "Çavlan Başarır",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+      "instructor": "Çağatay Alpay",
+      "quota": "14 Mand. 0 Elect.",
+      "total_quota": 14,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -67,37 +67,37 @@
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FB-115",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FB-115",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FB-115",
+          "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FB-115(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         }
       ],
       "name": "GRA 317-002"
     },
     "GRA 317-003": {
-      "instructor": "Çağatay Alpay",
-      "quota": "20 Mand. 0 Elect.",
-      "total_quota": 20,
+      "instructor": "Staff",
+      "quota": "14 Mand. 0 Elect.",
+      "total_quota": 14,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -107,28 +107,28 @@
           "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
-          "place": "FB-221(S)",
+          "place": "FA-213(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
-          "place": "FB-221",
+          "place": "FA-213",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FB-221",
+          "place": "FA-213",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FB-221",
+          "place": "FA-213",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

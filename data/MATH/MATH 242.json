@@ -16,8 +16,8 @@
   "sections": {
     "MATH 242-001": {
       "instructor": "Arif Bülent Özgüler",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -55,9 +55,9 @@
       "name": "MATH 242-001"
     },
     "MATH 242-002": {
-      "instructor": "Arif Bülent Özgüler",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "Orhan Arıkan",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0
@@ -95,9 +95,9 @@
       "name": "MATH 242-002"
     },
     "MATH 242-003": {
-      "instructor": "Nil Şahin",
-      "quota": "65 Mand. 0 Elect.",
-      "total_quota": 65,
+      "instructor": "Staff",
+      "quota": "60 Mand. 0 Elect.",
+      "total_quota": 60,
       "enrollment": {
         "mandatory": 0,
         "elective": 0

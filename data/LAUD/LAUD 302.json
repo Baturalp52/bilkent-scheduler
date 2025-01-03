@@ -15,7 +15,7 @@
   "code": "LAUD 302",
   "sections": {
     "LAUD 302-001": {
-      "instructor": "Ahmet Oktan Nalbantoğlu",
+      "instructor": "Hatice Karaca",
       "quota": "20 Mand. or Elect.",
       "total_quota": 20,
       "enrollment": {
@@ -27,70 +27,70 @@
           "day": "Tuesday",
           "start": "10:30",
           "end": "11:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "11:30",
           "end": "12:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "13:30",
           "end": "14:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "14:30",
           "end": "15:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "15:30",
           "end": "16:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lab/Studio"
         },
         {
           "day": "Friday",
           "start": "16:30",
           "end": "17:20",
-          "place": "FA-314",
+          "place": "FA-317",
           "class": "Face-to-Face Lab/Studio"
         }
       ],

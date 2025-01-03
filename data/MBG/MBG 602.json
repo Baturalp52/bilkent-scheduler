@@ -15,7 +15,7 @@
   "code": "MBG 602",
   "sections": {
     "MBG 602-001": {
-      "instructor": "Serkan Belkaya",
+      "instructor": "Işık Yuluğ",
       "quota": "25 Mand. or Elect.",
       "total_quota": 25,
       "enrollment": {
@@ -24,28 +24,28 @@
       },
       "schedule": [
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Tuesday",
+          "day": "Wednesday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "13:30",
           "end": "14:20",
           "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Thursday",
+          "day": "Friday",
           "start": "14:30",
           "end": "15:20",
           "place": "",

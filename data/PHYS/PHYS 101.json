@@ -15,30 +15,30 @@
   "code": "PHYS 101",
   "sections": {
     "PHYS 101-001": {
-      "instructor": "Ali Ulvi Yılmazer",
+      "instructor": "Staff",
       "quota": "60 Mand. or Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 60,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "08:30",
           "end": "09:20",
           "place": "(S)",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "09:30",
           "end": "10:20",
           "place": "",
           "class": "Face-to-Face Lab/Studio"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "10:30",
           "end": "11:20",
           "place": "",
@@ -48,11 +48,11 @@
           "day": "Friday",
           "start": "10:30",
           "end": "11:20",
-          "place": "B-112(S)",
+          "place": "(S)",
           "class": "Face-to-Face Lecture"
         },
         {
-          "day": "Wednesday",
+          "day": "Thursday",
           "start": "11:30",
           "end": "12:20",
           "place": "",
@@ -62,32 +62,32 @@
           "day": "Friday",
           "start": "11:30",
           "end": "12:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "15:30",
           "end": "16:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         },
         {
           "day": "Tuesday",
           "start": "16:30",
           "end": "17:20",
-          "place": "B-112",
+          "place": "",
           "class": "Face-to-Face Lecture"
         }
       ],
       "name": "PHYS 101-001"
     },
     "PHYS 101-002": {
-      "instructor": "Ceren Sibel Sayın",
+      "instructor": "Staff",
       "quota": "60 Mand. or Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 60,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -151,12 +151,12 @@
       "name": "PHYS 101-002"
     },
     "PHYS 101-003": {
-      "instructor": "Ceyhun Bulutay",
+      "instructor": "Staff",
       "quota": "60 Mand. or Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 59,
-        "elective": 1
+        "mandatory": 0,
+        "elective": 0
       },
       "schedule": [
         {
@@ -219,11 +219,11 @@
       "name": "PHYS 101-003"
     },
     "PHYS 101-004": {
-      "instructor": "Yiğit Gündüç",
+      "instructor": "Staff",
       "quota": "60 Mand. or Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 45,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -287,11 +287,11 @@
       "name": "PHYS 101-004"
     },
     "PHYS 101-005": {
-      "instructor": "Ali Ulvi Yılmazer",
+      "instructor": "Staff",
       "quota": "60 Mand. or Elect.",
       "total_quota": 60,
       "enrollment": {
-        "mandatory": 59,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
@@ -355,11 +355,11 @@
       "name": "PHYS 101-005"
     },
     "PHYS 101-006": {
-      "instructor": "Ahmet Züfer Eriş",
-      "quota": "60 Mand. or Elect.",
-      "total_quota": 60,
+      "instructor": "Staff",
+      "quota": "55 Mand. or Elect.",
+      "total_quota": 55,
       "enrollment": {
-        "mandatory": 60,
+        "mandatory": 0,
         "elective": 0
       },
       "schedule": [
